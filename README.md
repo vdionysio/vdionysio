@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :desktop_computer: I'm currently working at Wipro as BizOps Engineer.
-- :seedling: I have deep interest in back-end development using SpringBoot and NodeJS.
+- :seedling: I have deep interest in back-end development using Java/SpringBoot.
   
 <div>
   <a href="https://github.com/vdionysio">
